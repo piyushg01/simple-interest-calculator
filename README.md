@@ -1,9 +1,10 @@
 # simple-interest-calculator
+
 Simple Interest Calculator
 
 Project Overview
 
-This project is a simple Bash-based calculator that computes simple interest using the following inputs:
+This project is a simple Bash based calculator that computes simple interest using the following inputs:
 
 Principal amount
 
@@ -51,3 +52,4 @@ simple-interest.sh – Bash script that calculates simple interest.
 License
 
 This project is licensed under the Apache License 2.0.
+
